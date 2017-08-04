@@ -1,0 +1,2 @@
+# MyFavoritePlaces
+MyFavoritePlaces provides a way to store and retrieve lists of places. Each place has a name, address, latitude and longitude. The program can load places from one or more files, the user can add, edit and delete these  places and then save a list of places to a file. The user can display information about the places. The user can specify a current place and the places will be listed in order according to increasing distance from the current place
